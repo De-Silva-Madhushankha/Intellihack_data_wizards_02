@@ -68,25 +68,6 @@ This task involves segmenting customers based on their behavior on an e-commerce
 - Matplotlib
 - Seaborn
 
-## How to Run the Notebook
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/De-Silva-Madhushankha/Intellihack_data_wizards_02.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Intellihack_data_wizards_02
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook intellihack-data-wizards-02.ipynb
-   ```
-5. Run all cells to execute the analysis.
-
 ## Future Improvements
 - Improve clustering by experimenting with additional algorithms like Gaussian Mixture Models (GMM).
 - Integrate advanced feature engineering, such as customer lifetime value (CLV) prediction.
