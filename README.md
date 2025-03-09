@@ -1,4 +1,4 @@
-# Customer Segmentation
+# Intellihack_data_wizards_02 - Customer Segmentation
 
 ## Overview
 This task involves segmenting customers based on their behavior on an e-commerce platform. The dataset includes customer interactions, purchases, and browsing patterns, and the goal is to identify three distinct customer segments:
@@ -71,11 +71,11 @@ This task involves segmenting customers based on their behavior on an e-commerce
 ## How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/customer-segmentation.git
+   git clone https://github.com/De-Silva-Madhushankha/Intellihack_data_wizards_02.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd customer-segmentation
+   cd Intellihack_data_wizards_02
    ```
 3. Install dependencies:
    ```bash
