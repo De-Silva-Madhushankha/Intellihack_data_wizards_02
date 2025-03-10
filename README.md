@@ -60,13 +60,37 @@ This task involves segmenting customers based on their behavior on an e-commerce
 - **High Spenders**: Customers with fewer high-value purchases and low discount dependency.
 - **Window Shoppers**: Customers who browse a lot but rarely make purchases.
 
-## Dependencies
+### Prerequisites
+Ensure you have the following dependencies installed:
 - Python 3.x
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
+
+You can install these dependencies using pip:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```
+
+## Steps to Run the Notebook
+1.Clone the Repository Clone the repository to your local machine:
+```bash
+git clone https://github.com/De-Silva-Madhushankha/Intellihack_data_wizards_02.git
+cd Intellihack_data_wizards_02
+```
+2.Prepare the Dataset Ensure the dataset is placed in the appropriate directory as specified in the notebook. If the dataset is not included, download it from the provided source and place it in the data directory.
+
+3.Launch Jupyter Notebook Start the Jupyter Notebook server:
+```bash
+jupyter notebook
+```
+4.Open the Notebook In the Jupyter Notebook interface, navigate to the directory where you cloned the repository and open the notebook file (e.g., customer_segmentation.ipynb).
+
+5.Run the Notebook Execute the cells in the notebook sequentially to perform customer segmentation. You can run all cells by selecting Cell > Run All from the menu.
+
 
 ## Future Improvements
 - Improve clustering by experimenting with additional algorithms like Gaussian Mixture Models (GMM).
