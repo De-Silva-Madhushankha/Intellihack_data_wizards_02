@@ -91,7 +91,7 @@ jupyter notebook
 
 5.Run the Notebook Execute the cells in the notebook sequentially to perform customer segmentation. You can run all cells by selecting Cell > Run All from the menu.
 
-
+**Note: You must change the file path depending on where your dataset is located**
 ## Future Improvements
 - Improve clustering by experimenting with additional algorithms like Gaussian Mixture Models (GMM).
 - Integrate advanced feature engineering, such as customer lifetime value (CLV) prediction.
